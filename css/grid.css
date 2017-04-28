@@ -23,7 +23,13 @@
         font-size: 1em;
     }
     header .img-responsive{
-        margin-left: 15%
+        margin-left: 15%;
+    }
+    .vivo iframe{
+        width: 250px;
+    }
+    .cotizar h1{
+        font-size: 25px;
     }
 
 
@@ -47,6 +53,9 @@
     header h2{
         font-size: 20px;
     }
+    .vivo iframe{
+        width: 250px;
+    }
 }
 
 
@@ -57,4 +66,10 @@
     .h-contacto a{
     font-size:1.5em;
 }    
+    .i-img h5{
+        font-size: 12px;
+    }
+    i-img-3 .img-responsive{
+        max-width: 94% !important;
+    }
 }

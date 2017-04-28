@@ -61,3 +61,12 @@ section{
     border-radius: 20px;
     color: #081D3C;
 }
+
+.titulo {
+    background: #b3d0ee;
+    color: #014e78;
+}
+
+.i-img .i-img-2 img{
+    border-bottom: 10px solid #00a2e5;
+}
