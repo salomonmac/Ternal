@@ -1,0 +1,53 @@
+*{
+    font-family: Raleway;
+}
+header {
+    background: #081d3c;
+    color: white;
+    padding-top: 0.5em;
+}
+.borde-b {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.h-contacto {
+    background: #081d3c;
+    color: white;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+.h-contacto a{
+    color: white;
+    font-size:2.1em;
+}
+.navbar-default .navbar-nav > li > a{
+    color: white;
+}
+
+.navbar-default{
+    background: #00a2e5 !important;
+    color: white;
+    border: none;
+}
+footer{
+    background: #014e78;
+    color: #D7EFF6;
+    padding-bottom: 1em;
+}
+footer a{
+    color: #D7EFF6;
+}
+section{
+    background: #e5e6e9;
+    margin-top: -1.4em;
+}
+.h-contacto .input-group{
+    padding-right: 10%;
+}
+.menu{
+     background: #00a2e5 !important;
+    margin-top: -0.2em;
+}
+.redes-sociales img{
+    width: 80%;
+}
