@@ -40,6 +40,7 @@ footer a{
 section{
     background: #e5e6e9;
     margin-top: -1.4em;
+    padding-bottom: 2em;
 }
 .h-contacto .input-group{
     padding-right: 10%;
@@ -50,4 +51,13 @@ section{
 }
 .redes-sociales img{
     width: 80%;
+}
+.navbar-default .navbar-brand{
+    color: white;
+}
+.sec-bor {
+    border: 1px solid #014E78;
+    background: white;
+    border-radius: 20px;
+    color: #081D3C;
 }
