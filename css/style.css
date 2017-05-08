@@ -70,3 +70,20 @@ section{
 .i-img .i-img-2 img{
     border-bottom: 10px solid #00a2e5;
 }
+
+.i-img p{
+    height: 100px;
+}
+.triangulo{
+    background:#c2e8f5;
+    color:#014e78; 
+    font-size:1.5em;
+}
+.libros{
+    background:#c2e8f5; 
+    color:#014e78; 
+    font-size:1.5em;
+}
+.productos p{
+    font-size: 0.8em;
+}
